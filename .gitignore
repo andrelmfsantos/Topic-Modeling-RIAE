@@ -1,3 +1,4 @@
 mallet-2.0.8/
 .ipynb_checkpoints/
 __pycache__/
+.DS_Store
